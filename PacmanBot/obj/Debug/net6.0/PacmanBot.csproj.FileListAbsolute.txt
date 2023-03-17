@@ -1,0 +1,15 @@
+T:\CSharp\Education\PacmanBot\PacmanBot\bin\Debug\net6.0\PacmanBot.exe
+T:\CSharp\Education\PacmanBot\PacmanBot\bin\Debug\net6.0\PacmanBot.deps.json
+T:\CSharp\Education\PacmanBot\PacmanBot\bin\Debug\net6.0\PacmanBot.runtimeconfig.json
+T:\CSharp\Education\PacmanBot\PacmanBot\bin\Debug\net6.0\PacmanBot.dll
+T:\CSharp\Education\PacmanBot\PacmanBot\bin\Debug\net6.0\PacmanBot.pdb
+T:\CSharp\Education\PacmanBot\PacmanBot\obj\Debug\net6.0\PacmanBot.csproj.AssemblyReference.cache
+T:\CSharp\Education\PacmanBot\PacmanBot\obj\Debug\net6.0\PacmanBot.GeneratedMSBuildEditorConfig.editorconfig
+T:\CSharp\Education\PacmanBot\PacmanBot\obj\Debug\net6.0\PacmanBot.AssemblyInfoInputs.cache
+T:\CSharp\Education\PacmanBot\PacmanBot\obj\Debug\net6.0\PacmanBot.AssemblyInfo.cs
+T:\CSharp\Education\PacmanBot\PacmanBot\obj\Debug\net6.0\PacmanBot.csproj.CoreCompileInputs.cache
+T:\CSharp\Education\PacmanBot\PacmanBot\obj\Debug\net6.0\PacmanBot.dll
+T:\CSharp\Education\PacmanBot\PacmanBot\obj\Debug\net6.0\refint\PacmanBot.dll
+T:\CSharp\Education\PacmanBot\PacmanBot\obj\Debug\net6.0\PacmanBot.pdb
+T:\CSharp\Education\PacmanBot\PacmanBot\obj\Debug\net6.0\PacmanBot.genruntimeconfig.cache
+T:\CSharp\Education\PacmanBot\PacmanBot\obj\Debug\net6.0\ref\PacmanBot.dll
